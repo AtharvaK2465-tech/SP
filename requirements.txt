@@ -1,0 +1,3 @@
+psutil>=5.9,<8
+# Optional push transport; the browser falls back to 1-second polling.
+websockets>=12,<16
